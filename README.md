@@ -81,7 +81,7 @@ When sending request, the client can send data with using different http methods
 
     - remains in the browser history.
 
-    - can be bookmarked
+    - can be bookmarked.
 
     - should never be used when dealing with sensitive data.
 
@@ -103,9 +103,9 @@ When sending request, the client can send data with using different http methods
 
 ## Part 3 - Write a Web Application using If conditions and for loops
 
-- Copy `flask-03-handling-routes-and-if-for` within `my-repository` repo
+- Copy `flask-03-handling-routes-and-if-for` within `my-repository` repo.
 
-- Under `Flask_If_for_structure` folder within `flask-03-handling-routes-and-if-for` repo
+- Under `Flask_If_for_structure` folder within `flask-03-handling-routes-and-if-for` repo.
 
 - Create python file named `app.py`
 
@@ -126,7 +126,7 @@ When sending request, the client can send data with using different http methods
 
 ## Part 4 - Write a Web Application with Sample Routings and Templating on GitHub Repo
 
-- Let's head over `flask-03-handling-routes` folder within `flask-03-handling-routes-and-if-for` repo
+- Let's head over `flask-03-handling-routes` folder within `flask-03-handling-routes-and-if-for` repo.
 
 - Create python file named `app.py`
 
