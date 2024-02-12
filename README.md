@@ -35,13 +35,13 @@ At the end of the this hands-on training, students will be able to;
 
 - Part 2 - Getting to know HTTP methods (GET & POST).
 
-- Part 3 - Write a Web Application using If conditions and for loops
+- Part 3 - Write a Web Application using If conditions and for loops.
 
-- Part 4 - Write a Web Application with Sample Routings and Templating on GitHub Repo
+- Part 4 - Write a Web Application with Sample Routings and Templating on GitHub Repo.
 
-- Part 5 - Learn to use GET and POST HTTP Method
+- Part 5 - Learn to use GET and POST HTTP Method.
 
-- Part 6 - Write a Sample Web Application with forms
+- Part 6 - Write a Sample Web Application with forms.
 
 ## Part 1 - Getting to know routing and HTTP URLs.
 
@@ -95,7 +95,7 @@ When sending request, the client can send data with using different http methods
 
     - does not remain in the browser history.
 
-    - can not be bookmarked
+    - can not be bookmarked.
 
     - can be used when dealing with sensitive data.
 
@@ -128,7 +128,7 @@ When sending request, the client can send data with using different http methods
 
 - Let's head over `flask-03-handling-routes` folder within `flask-03-handling-routes-and-if-for` repo.
 
-- Create python file named `app.py`
+- Create python file named `app.py`.
 
 ```python
 #Import Flask modules
